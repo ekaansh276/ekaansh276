@@ -1,5 +1,13 @@
 # 💫 About Me:
-I’m currently working on: Front-end projects that involve creating responsive user interfaces and enhancing user experiences using frameworks like ReactJS, while also exploring back-end development to integrate APIs and databases.<br>I’m looking to collaborate on: Projects that involve full-stack development, especially those focusing on user experience design or complex web applications.<br>I’m currently learning: Advanced back-end development concepts, including server management and database design, as well as deepening my understanding of Data Structures and Algorithms.<br>Front-end development techniques, graphic design tools, or logical problem-solving strategies in programming.<br>I have experience in both graphic design and programming, allowing me to approach projects with a unique perspective that blends aesthetics and functionality!
+👯 I’m currently working on: Front-end projects that involve creating responsive user interfaces and enhancing user experiences using frameworks like ReactJS, while also exploring back-end development to integrate APIs and databases.
+
+🤝 I’m looking to collaborate on: Projects that involve full-stack development, especially those focusing on user experience design or complex web applications.
+
+🌱 I’m currently learning: Advanced back-end development concepts, including server management and database design, as well as deepening my understanding of Data Structures and Algorithms.
+
+💬 Ask me about: Front-end development techniques, graphic design tools, or logical problem-solving strategies in programming.
+
+⚡ Fun fact: I have experience in both graphic design and programming, allowing me to approach projects with a unique perspective that blends aesthetics and functionality!
 
 
 ## 🌐 Socials:
